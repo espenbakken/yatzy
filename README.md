@@ -1,4 +1,4 @@
-#Innlevering #1 Programmeringsferdigheter#
+## **Innlevering #1 Programmeringsferdigheter**
 #Avansert Java PGR203#
 ![Java CI with Maven](https://github.com/espenbakken/yatzy/workflows/Java%20CI%20with%20Maven/badge.svg)
 
