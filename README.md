@@ -1,7 +1,7 @@
 ![Java CI with Maven](https://github.com/espenbakken/yatzy/workflows/Java%20CI%20with%20Maven/badge.svg)
 
-### Arbeidskrav 1
-## Espen Bakken
+## Arbeidskrav 1
+### Espen Bakken
 
 Min innlevering av første arbeidskrav i faget PGR203. Her har jeg løst en av oppgavene fra de første forelesningene,
 Beregn poengscore for yatzy-kast. Da jeg hittil ikke har hatt en fungerende kohort, har jeg ikke fått gitt vurdering til 
